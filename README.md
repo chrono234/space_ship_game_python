@@ -1,6 +1,6 @@
 # Space_ship_game_python
 
-A tetris disigned only with java
+This is my first game in python
 
 
 ## Acknowledgements
