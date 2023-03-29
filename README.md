@@ -1,6 +1,6 @@
 # Space_ship_game_python
 
-## Descripción 📑
+## Description 📑
 This is my first game in python
 
 I wanted to create a real game with sound, good logic, and oriented to objects because i did not know how to use classes in python before.
@@ -34,7 +34,7 @@ I wanted to create a real game with sound, good logic, and oriented to objects b
 * git
 * python
 
-## Instalación
+## Instalation
 
 This project does not need installation. Simply open de folder and make doble click in the folder.
 
@@ -43,8 +43,10 @@ This project does not need installation. Simply open de folder and make doble cl
 
 - [Jairo](https://github.com/chrono234)
 
-## Licencia 📄
+## Licence 📄
 MIT Public License v3.0
+
+
 Do not use Commercially.
 
 
