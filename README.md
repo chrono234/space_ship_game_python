@@ -1,7 +1,9 @@
 # Space_ship_game_python
 
+## Descripción 📑
 This is my first game in python
 
+I wanted to create a real game with sound, good logic, and oriented to objects because i did not know how to use classes in python before.
 
 ## Acknowledgements
 
@@ -20,7 +22,7 @@ This is my first game in python
  ![Game image](https://raw.githubusercontent.com/chrono234/space_ship_game_python/ae7c9e9007860922dd294173ca03139d52f6f64f/images/imagen%20del%20juego.png)
 
 
-## Documentation
+## Documentation 📑
 
 [pygame](https://www.pygame.org/news)
 
@@ -32,8 +34,17 @@ This is my first game in python
 * git
 * python
 
-## Authors
+## Instalación
 
-- [chrono234](https://github.com/chrono234)
+This project does not need installation. Simply open de folder and make doble click in the folder.
+
+
+## Autor ✒️
+
+- [Jairo](https://github.com/chrono234)
+
+## Licencia 📄
+MIT Public License v3.0
+Do not use Commercially.
 
 
